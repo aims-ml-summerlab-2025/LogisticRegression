@@ -1,6 +1,6 @@
 # Prévision Météorologique avec Régression Logistique
 
-![Logo AIMS]([https://aims-senegal.org/wp-content/uploads/2018/05/AIMSlogocrop-600x298.jpg](https://www.aimssn-academy.org/logo-aims.png))
+![Logo AIMS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2oqpzNfaL-_veUOsyKSrbcAg7m-_s6fYmb38nB_BBtfIxl5vpSKpq3c-9HUB6nyBF_A&usqp=CAU)
 
 Ce dépôt contient un projet d'apprentissage automatique axé sur la prédiction des précipitations ("Rain Tomorrow") en utilisant un modèle de régression logistique. Il s'inscrit dans le cadre de l'exploration des données météorologiques historiques pour des applications prédictives.
 
